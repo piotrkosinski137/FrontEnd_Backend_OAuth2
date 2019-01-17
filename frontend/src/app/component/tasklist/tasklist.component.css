@@ -1,0 +1,6 @@
+nav ul {
+   height: 300px;
+   width: 40%;
+   overflow: hidden;
+   overflow-y:  scroll;
+}
